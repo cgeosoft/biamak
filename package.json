@@ -1,5 +1,5 @@
 {
-  "name": "website-biamak",
+  "name": "biamak",
   "version": "0.0.0",
   "description": "biamak.gr",
   "author": {
@@ -8,7 +8,7 @@
     "url": "http://cgeosoft.com"
   },
   "dependencies": {
-    "gulp-cg-toolkit": "2.2.0",
-    "bootstrap": "^4.1.1"
+    "gulp-cg-toolkit": "4.1.0",
+    "bootstrap": "^4.4.1"
   }
 }
